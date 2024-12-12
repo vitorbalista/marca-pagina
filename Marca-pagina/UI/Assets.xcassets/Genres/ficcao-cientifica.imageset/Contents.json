@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ficcao-cientifica.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

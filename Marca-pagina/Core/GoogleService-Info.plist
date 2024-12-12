@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>655451309358-14qcshku8q8hr3tjm6lh1lqb38ajhcm1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.655451309358-14qcshku8q8hr3tjm6lh1lqb38ajhcm1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB_SanFzI9pjqV8Vhbcq6LFdttDVmcsYbk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>655451309358</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.team.marcapagina</string>
+	<key>PROJECT_ID</key>
+	<string>marcapagina-a485e</string>
+	<key>STORAGE_BUCKET</key>
+	<string>marcapagina-a485e.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:655451309358:ios:d1f3561e6f1565fd3ea6bf</string>
+	<key>DATABASE_URL</key>
+	<string>https://marcapagina-a485e-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

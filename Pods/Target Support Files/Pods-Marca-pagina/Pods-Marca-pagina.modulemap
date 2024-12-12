@@ -1,0 +1,6 @@
+framework module Pods_Marca_pagina {
+  umbrella header "Pods-Marca-pagina-umbrella.h"
+
+  export *
+  module * { export * }
+}
